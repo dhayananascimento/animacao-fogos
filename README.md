@@ -1,8 +1,8 @@
 # Animação - Fogos
 Projeto com a finalidade de treinar habilidades relativas a linguagem CSS.
 
-## Layout
-<img src="./fogos.gif" alt= "gif fogos">     
+## Demo
+https://dhayananascimento.github.io/animacao-fogos/   
         
 ## Linguagens
 * CSS
